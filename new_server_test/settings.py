@@ -35,9 +35,7 @@ INSTALLED_APPS = [
     'test_backend',
     "backend",
     "rest_framework",
-
     "corsheaders",
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
